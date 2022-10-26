@@ -1,1 +1,1 @@
-# TP Mat Discreta Grupo 8
+# TP Mat. Discreta Grupo 8
